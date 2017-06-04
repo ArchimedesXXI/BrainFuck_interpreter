@@ -1,0 +1,8 @@
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\BrainFuck_interpreter\BrainFuck_interpreter\BrainFuck_interpreter\bin\Debug\BrainFuck_interpreter.exe.config
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\BrainFuck_interpreter\BrainFuck_interpreter\BrainFuck_interpreter\bin\Debug\BrainFuck_interpreter.exe
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\BrainFuck_interpreter\BrainFuck_interpreter\BrainFuck_interpreter\bin\Debug\BrainFuck_interpreter.pdb
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\BrainFuck_interpreter\BrainFuck_interpreter\BrainFuck_interpreter\obj\Debug\BrainFuck_interpreter.csprojResolveAssemblyReference.cache
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\BrainFuck_interpreter\BrainFuck_interpreter\BrainFuck_interpreter\obj\Debug\BrainFuck_interpreter.exe
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\BrainFuck_interpreter\BrainFuck_interpreter\BrainFuck_interpreter\obj\Debug\BrainFuck_interpreter.pdb
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\BrainFuck_interpreter\BrainFuck_interpreter\BrainFuck_interpreter\bin\Debug\BrainFuck_Interpreter_library.dll
+C:\__MY_STUFF\_Comp_Engineering\C#-my_source_code\BrainFuck_interpreter\BrainFuck_interpreter\BrainFuck_interpreter\bin\Debug\BrainFuck_Interpreter_library.pdb
